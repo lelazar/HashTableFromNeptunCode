@@ -1,2 +1,2 @@
-#Hash Tábla Implementáció (C#)
+# Hash Tábla Implementáció (C#)
 
